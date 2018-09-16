@@ -1,6 +1,7 @@
 import UIKit
 
 //Еще немного про работу с optionals
+// PLOHOI KOMMENT
 var opt: Int? = nil
 //print(opt) -- error
 
